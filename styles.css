@@ -7,15 +7,14 @@ body {
   text-align: center;
 }
 
-/* top bar with title and social links. stays on top */
-header {
+h1 {
   padding: 20px;
   background-color: #ffffff;
   border-radius: 15px;
   font-size: xx-large;
 }
 
-main {
+h2 {
   font-size: large;
   color: aqua;
 }
