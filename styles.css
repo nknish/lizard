@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #460030;
+  text-align: center;
+}
+
+/* top bar with title and social links. stays on top */
+header {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  font-size: xx-large;
+}
+
+main {
+  font-size: large;
+  color: aqua;
+}
